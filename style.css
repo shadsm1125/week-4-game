@@ -1,0 +1,35 @@
+.instructions{
+	border: dotted;
+	border-color: #ffffff
+	width:400px;
+};
+
+#thumbnail{
+	height: 150px; 
+	width: 150px; 
+};
+
+.totalScore {
+
+	background-color: white; 
+	color: red; 
+	
+}
+
+.thumbnail{
+	position: relative;
+	float: left;
+	width: 150px;
+	height: 150px; 
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;  
+
+}
+
+.totalScore{
+
+	clear: left;
+	float: left; 
+	
+}
